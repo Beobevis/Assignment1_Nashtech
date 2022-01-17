@@ -35,8 +35,11 @@
             // PrintData(results.Item3);
 
             //5.In ra List Member ở Hà Nội
-            var results = GetMembersbyBirthPlace();
-            PrintData(results);
+            // var results = GetMembersbyBirthPlace();
+            // PrintData(results);
+            //6.In ra Member đầu tiên ở Hà Nội
+            var result = GetMemberbyBP();
+            PrintData(new List<Member>{result});
 
 
         }
@@ -251,6 +254,15 @@
                 }
             }
             return result;
+        }
+
+        static Member GetMemberbyBP()
+        {
+            int i = members.Count;
+            while(members[i].BirthPlace != "Ha Noi"){
+                i++;
+            }
+            return members[i];
         }
 
     }

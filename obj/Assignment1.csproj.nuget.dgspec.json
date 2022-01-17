@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj": {}
+    "c:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj": {
+    "c:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "c:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "C:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj",
+        "projectPath": "c:\\Users\\Pc Market\\Desktop\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\Pc Market\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc Market\\Desktop\\Assignment1\\obj\\",
+        "outputPath": "c:\\Users\\Pc Market\\Desktop\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\SDKs\\NuGetPackages"
